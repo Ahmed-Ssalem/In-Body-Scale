@@ -24,5 +24,9 @@
 
 ![2](https://user-images.githubusercontent.com/62884380/141797315-c6ec927a-7393-410d-9762-d0c7b85f9825.PNG)
 
+- If you leave an empty field, registration will not take place.
+
+![3](https://user-images.githubusercontent.com/62884380/141797613-69e6c601-0d7a-4607-a2a1-60549bfdad0f.PNG)
+
 
 
