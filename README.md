@@ -36,5 +36,9 @@
 
 ![5](https://user-images.githubusercontent.com/62884380/141797609-139d8445-58c1-41d6-bebf-fa31fecf4a03.PNG)
 
+- Fill in your data and click Calculate.
+
+![6](https://user-images.githubusercontent.com/62884380/141797604-29073b43-d46b-4536-a687-b59b051cffea.PNG)
+
 
 
