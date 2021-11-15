@@ -48,7 +48,7 @@
 
 ![8](https://user-images.githubusercontent.com/62884380/141797620-5d459a34-c8ef-4d1c-91ab-c67ae95c46b7.PNG)
 
-- Fill in your data and click Login.
+- Fill in your data and click on login. If your data is correct, you will be logged in.
 
 ![9](https://user-images.githubusercontent.com/62884380/141797616-00f80164-5e6e-4548-ae0b-e608f21a281c.PNG)
 
