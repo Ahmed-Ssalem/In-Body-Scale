@@ -28,5 +28,13 @@
 
 ![3](https://user-images.githubusercontent.com/62884380/141797613-69e6c601-0d7a-4607-a2a1-60549bfdad0f.PNG)
 
+- Fill in your data and click Sign up.
+
+![4](https://user-images.githubusercontent.com/62884380/141797612-ddb13a08-990f-4cf3-88e4-18251a68b931.PNG)
+
+- A new form will appear to complete your data. 
+
+![5](https://user-images.githubusercontent.com/62884380/141797609-139d8445-58c1-41d6-bebf-fa31fecf4a03.PNG)
+
 
 
