@@ -40,5 +40,16 @@
 
 ![6](https://user-images.githubusercontent.com/62884380/141797604-29073b43-d46b-4536-a687-b59b051cffea.PNG)
 
+- A new form will appear showing you your calculated data.
+
+![7](https://user-images.githubusercontent.com/62884380/141797622-71fbe13b-c31f-42cc-9737-e856170534a8.PNG)
+
+- You can Login directly if you have an account.
+
+![8](https://user-images.githubusercontent.com/62884380/141797620-5d459a34-c8ef-4d1c-91ab-c67ae95c46b7.PNG)
+
+- Fill in your data and click Login.
+
+![9](https://user-images.githubusercontent.com/62884380/141797616-00f80164-5e6e-4548-ae0b-e608f21a281c.PNG)
 
 
